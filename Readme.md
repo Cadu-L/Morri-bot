@@ -1,5 +1,5 @@
 # Introdução:
- Esse é um bot para o discord que eu mesmo criei para o discord usando a linguagem python, ainda está na sua fase de teste mas que ao longo do tempo vou realizar mais melhorias. 
+ Esse é um bot para o discord que eu mesmo criei usando a linguagem python, dei o nome a ele de Morris mas ele é apenas uma exemplo do que estou aprendendo.
 
  # ME ajude:
-  Como o bot ainda está em faze de teste caso você use esse bot no discord me mande um retorno sobre o que achou e como posso melhorar ele ainda mais, agradeço por quem estiver usado e aguardo a resposta de vocês. 
+  Não me julgue caso você ver algo de errado ou algo do tipo, to aprendendo agora e aceito qualquer ajuda para que eu possa melhorar.
